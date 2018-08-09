@@ -1,9 +1,7 @@
 using GildedRose.Console;
 using GildedRose.Console.Services;
-using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Xunit;
-using System.Linq;
+using System.Collections.Generic;
 
 namespace GildedRose.Tests
 {
